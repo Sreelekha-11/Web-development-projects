@@ -30,6 +30,25 @@ It dynamically updates the displayed items based on user input.
 
 <img width="45%" height="387" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/1ee2f5fc-385f-4b7d-a692-7a07dc889cba" /> <img width="45%" height="350" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/12b80b27-61f8-4a41-9760-1dca9a48a8cc" />
 
+# Project 3: Todo App (HTML, CSS, JS)
+It is a simple Todo application built using JavaScript to practice DOM manipulation and event handling.
+
+## Algorithm
+1. Get references to the input field, add button, and task list from the DOM.
+2. Listen for a click event on the **Add** button.
+3. When the button is clicked:
+   - Read the value entered in the input field.
+   - If the input is empty, stop the process.
+4. Create a new list item (`li`) and add the task text to it.
+5. Add a click event to the task to toggle its completed state.
+6. Create a delete button for the task.
+7. Add a click event to the delete button to remove the task from the list.
+8. Append the task item to the task list.
+9. Clear the input field after adding the task.
+
+
+<img width="45%" height="645" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/0f1403c6-6c14-477c-aa1c-dbef5d143e73" /> <img width="45%" height="645" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/bd363db6-8be6-4a31-a8e1-9df94a5a1fcd" />
+
 
 
 
