@@ -49,6 +49,21 @@ It is a simple Todo application built using JavaScript to practice DOM manipulat
 
 <img width="45%" height="645" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/0f1403c6-6c14-477c-aa1c-dbef5d143e73" /> <img width="45%" height="645" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/bd363db6-8be6-4a31-a8e1-9df94a5a1fcd" />
 
+# Project 4: Notes App (HTML, CSS, JS)
+A simple Notes App that allows users to add and delete notes dynamically using JavaScript.  
+This project focuses on understanding DOM manipulation, event handling, and basic UI interactions.
+
+## Algorithm
+1. Get the required input field, button, and notes container elements from the HTML.
+2. Wait for the user to click the Add Note button.
+3. Read the text entered by the user in the text area.
+4. Check if the input is empty and stop the process if no text is provided.
+5. Create a new note element with the entered text and a delete button.
+6. Display the note on the page and allow it to be removed when the delete button is clicked.
+   
+
+<img width="45%" height="644" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/9e38b1e5-5738-416f-b9ca-93d3efe996b7" /> <img width="45%" height="643" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/082a6ddb-f97a-4dbd-9aa8-51bf05f66f36" />
+
 
 
 
