@@ -64,6 +64,19 @@ This project focuses on understanding DOM manipulation, event handling, and basi
 
 <img width="45%" height="644" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/9e38b1e5-5738-416f-b9ca-93d3efe996b7" /> <img width="45%" height="643" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/082a6ddb-f97a-4dbd-9aa8-51bf05f66f36" />
 
+# Project 5: Image Gallery (HTML, CSS, JS)
+This project displays images in a grid layout and allows users to preview images in a larger view using a modal popup.
+
+## Algorithm
+1. Create a container to display all images in a grid layout.
+2. Select all gallery images and modal elements using JavaScript.
+3. Attach click event listeners to each image.
+4. When an image is clicked, open the modal and display the selected image in large view.
+5. Display a dark overlay behind the modal to focus user attention.
+6. Attach a click event to the close button to hide the modal.
+7. Return the user to the gallery view when the modal is closed.
+
+
 
 
 
