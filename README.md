@@ -76,6 +76,10 @@ This project displays images in a grid layout and allows users to preview images
 6. Attach a click event to the close button to hide the modal.
 7. Return the user to the gallery view when the modal is closed.
 
+<img width="45%" height="623" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/b6a704b5-88ab-43e9-bd97-e44bc86ae43c" /> <img width="45%" height="623" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/06288640-7566-4d4e-a52c-6514ed269b99" />
+
+   
+
 
 
 
