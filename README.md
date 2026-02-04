@@ -78,7 +78,16 @@ This project displays images in a grid layout and allows users to preview images
 
 <img width="45%" height="623" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/b6a704b5-88ab-43e9-bd97-e44bc86ae43c" /> <img width="45%" height="623" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/06288640-7566-4d4e-a52c-6514ed269b99" />
 
-   
+ # Project 6: Calculator (HTML, CSS, JS)
+ The project is designed to strengthen problem-solving skills and improve understanding of JavaScript event handling and expression evaluation.
+
+## Algorithm
+1.Select the calculator display element from the DOM to show user input and results.
+2.Append numbers to the display when number buttons are clicked.
+3.Append operators to the display when operator buttons are clicked.
+4.Insert opening or closing brackets using a toggle mechanism.
+5.Evaluate the complete mathematical expression when the equals button is clicked.
+6.Display the calculated result or show an error message for invalid expressions.
 
 
 
