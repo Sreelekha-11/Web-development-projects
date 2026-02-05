@@ -90,11 +90,25 @@ This project displays images in a grid layout and allows users to preview images
 5. Evaluate the complete mathematical expression when the equals button is clicked.
 6. Display the calculated result or show an error message for invalid expressions.
 
-   ### Link : https://calc-git-main-sreelekha-11s-projects.vercel.app/
+### Link : https://calc-git-main-sreelekha-11s-projects.vercel.app/
 
 <img width="45%" height="643" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/64af8805-cb0c-4c07-8518-402c85fef40f" /> <img width="45%" height="643" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/db7607a2-f874-4d0b-9a87-5414bf3aa12a" />
 
+ # Project 7: Stopwatch (React + Tailwind CSS)
+A simple and interactive stopwatch application built using React and Tailwind CSS.  
 
+##  Algorithm 
+
+1. Initialize a state variable to store total elapsed time in seconds.
+2. Initialize another state variable to track whether the stopwatch is running.
+3. When the Start button is clicked, set the running state to true.
+4. Use `setInterval` inside `useEffect` to increment time every second while running.
+5. Clear the interval when the stopwatch is stopped or the component re-renders.
+6. Reset the time and stop the stopwatch when the Reset button is clicked.
+
+ ### Link : https://stopwatch-a3ya6twue-sreelekha-11s-projects.vercel.app/
+
+<img width="50%" height="626" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/1f8b5cc3-f380-4dd6-9560-1ff7a1b245a0" />
 
 
 
