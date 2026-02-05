@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #e6b5f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 400px;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 15px;
+  color: #a53f3f;
+}
+
+
+.note-input {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.note-input textarea {
+  resize: none;
+  height: 90px;
+  padding: 10px;
+  font-size: 14px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  outline: none;
+}
+
+.note-input textarea:focus {
+  border-color: #4f46e5;
+}
+
+.note-input button {
+  padding: 10px;
+  background-color: #4f46e5;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.note-input button:hover {
+  background-color: #4338ca;
+}
+
+.notes-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.note {
+  background-color: #f9fafb;
+  padding: 10px;
+  border-radius: 8px;
+  position: relative;
+  border-left: 4px solid #4f46e5;
+}
+
+.note p {
+  font-size: 14px;
+  color: #333;
+}
+
+.note button {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+}
