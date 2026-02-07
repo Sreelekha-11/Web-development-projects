@@ -107,8 +107,8 @@ A simple and interactive stopwatch application built using React and Tailwind CS
 6. Reset the time and stop the stopwatch when the Reset button is clicked.
 
  ### Link : https://stopwatch-a3ya6twue-sreelekha-11s-projects.vercel.app/
-
-<img width="50%" height="626" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/1f8b5cc3-f380-4dd6-9560-1ff7a1b245a0" />
+ 
+<img width="40%" height="645" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/c93ae7a2-8f2d-4b0c-bc6e-e4206ac7cc83" /> <img width="43%" height="626" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/1f8b5cc3-f380-4dd6-9560-1ff7a1b245a0" />
 
 
 
