@@ -110,6 +110,20 @@ A simple and interactive stopwatch application built using React and Tailwind CS
  
 <img width="40%" height="645" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/c93ae7a2-8f2d-4b0c-bc6e-e4206ac7cc83" /> <img width="43%" height="626" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/1f8b5cc3-f380-4dd6-9560-1ff7a1b245a0" />
 
+# Project 8:  Password Strength Indicator  (HTML, CSS, JS)
+This project provides real-time feedback on password strength based on the length of the entered password.
+
+##  Algorithm
+
+1. Get references to the password input field and message elements.
+2. Listen for user input events on the password field.
+3. Check if the password field is empty or not.
+4. If the password length is less than 4, mark it as **Weak**.
+5. If the password length is between 4 and 7, mark it as **Medium**.
+6. If the password length is 8 or more, mark it as **Strong** and update styles accordingly.
+  
+<img width="45%" height="634" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/f4929c5f-1a24-425e-9450-e3d4bbda502f" /> <img width="45%" height="636" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/09681dc3-7326-47ee-94f2-b87950386fae" />
+
 
 
 
