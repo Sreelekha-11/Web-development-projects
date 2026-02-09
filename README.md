@@ -124,6 +124,18 @@ This project provides real-time feedback on password strength based on the lengt
   
 <img width="45%" height="634" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/f4929c5f-1a24-425e-9450-e3d4bbda502f" /> <img width="45%" height="636" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/09681dc3-7326-47ee-94f2-b87950386fae" />
 
+# Project 9: Text to Speech Converter  (HTML, CSS, JS)
+This application allows users to type text, select a voice, and listen to the spoken output in the browser.
+
+## Algorithm
+
+1. Create a speech object using `SpeechSynthesisUtterance`.
+2. Fetch all available voices from the browser using the Speech Synthesis API.
+3. Populate the voice dropdown with the available voices.
+4. Update the speech voice when the user selects a different option.
+5. Read the text entered in the textarea when the button is clicked.
+6. Use `speechSynthesis.speak()` to convert the text into spoken audio.
+
 
 
 
