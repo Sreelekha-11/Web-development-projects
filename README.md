@@ -139,6 +139,19 @@ This application allows users to type text, select a voice, and listen to the sp
 ### Link : https://text-to-voice-five-silk.vercel.app/
 <img width="45%" height="644" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/bf9f9d9c-11ea-48b5-8544-c334552b46bd" /> <img width="45%" height="643" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/ced11aaa-ef7b-4f24-8ab6-1a1ecf853a17" />
 
+# Project 10: Circular Progress Bar  (HTML, CSS, JS)
+Designed and implemented an interactive SVG-based circular progress bar with smooth animation using JavaScript.
+
+## Algorithm
+
+1. Get all the percentage text elements and SVG circle elements from the HTML.
+2. Store the target percentage values for each progress bar.
+3. Calculate the circle circumference using the formula 2 × π × radius.
+4. Initialize each circle by setting its stroke-dasharray and stroke-dashoffset to the full circumference.
+5. Start an animation that increases a counter from 0 to the target value while updating the percentage text.
+6. Convert the percentage into stroke offset and apply it to the circle to visually display the progress, then stop the animation when the target is reached.
+
+ <img width="45%" height="630" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/95ded03b-dd83-4533-bf9f-ea0ac18b8619" />
 
 
 ## Author
