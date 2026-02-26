@@ -153,6 +153,27 @@ Designed and implemented an interactive SVG-based circular progress bar with smo
 
  <img width="45%" height="630" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/95ded03b-dd83-4533-bf9f-ea0ac18b8619" />
 
+ # Project 11: Weather App  (React, CSS)
+A simple and responsive weather application that fetches real-time weather data using the OpenWeatherMap API.
+
+## Algorithm
+
+1. Create a reference using useRef( ) to access the input field value directly.
+2. Initialize a state variable weatherData to store fetched weather details.
+3. When the user clicks the search icon:
+     Check if the input field is empty.
+     If empty, show an alert message.
+4. Fetch weather data from the OpenWeatherMap API using the city name and API key.
+5. If the API response is successful:
+     Extract temperature, humidity, wind speed, and weather icon.
+     Store the processed data in weatherData state.
+6. Display the weather details dynamically in the UI; if no data is available, render nothing.
+
+### Link : https://starlit-meringue-805ffd.netlify.app
+
+<img width="45%" height="637" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/77008496-5de4-4570-9aa5-67d650b119ae" />
+
+
 
 ## Author
 Sreelekha ThippiReddy🎓
